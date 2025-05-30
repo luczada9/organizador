@@ -45,13 +45,3 @@ Este projeto é um aplicativo em Python com interface gráfica que organiza arqu
    - Veja o resultado na área de texto exibida na interface.
 
 ---
-
-## Licença
-
-Este projeto está licenciado sob a MIT License.
-
----
-
-## Autor
-
-Desenvolvido por **Lucas**.
